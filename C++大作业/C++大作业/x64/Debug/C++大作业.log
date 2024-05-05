@@ -1,8 +1,6 @@
-﻿  1.cpp
-  AI.cpp
-  chess.cpp
-  game.cpp
-  man.cpp
-  正在生成代码...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-D:\C++项目\C++大作业\x64\Debug\C++大作业.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  chess.cpp
+D:\C++项目\C++大作业\C++大作业\chess.cpp(17,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(17,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(18,89): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(18,78): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  C++大作业.vcxproj -> D:\C++项目\C++大作业\x64\Debug\C++大作业.exe

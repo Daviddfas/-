@@ -4,3 +4,16 @@
 * 2.设计项目框架
 * 
 */
+#include<iostream>
+#include "game.h"
+using namespace std;
+
+int main()
+{
+	man man1;
+	chess chess1(15, 24, 16, 53.3);
+	AI ai1;
+	game game1(&man1, &ai1, &chess1);
+	game1.play();
+	return 0;
+}
