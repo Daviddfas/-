@@ -138,6 +138,7 @@
     <ClInclude Include="chess.h" />
     <ClInclude Include="game.h" />
     <ClInclude Include="man.h" />
+    <ClInclude Include="tietu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,6 +1,21 @@
 ﻿  chess.cpp
-D:\C++项目\C++大作业\C++大作业\chess.cpp(17,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(17,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(18,89): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(18,78): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(54,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(54,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(55,89): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(55,78): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(69,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(70,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(71,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(72,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(73,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(81,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(93,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(95,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(108,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(109,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(121,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(122,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(124,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(144,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++项目\C++大作业\C++大作业\chess.cpp(145,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
   C++大作业.vcxproj -> D:\C++项目\C++大作业\x64\Debug\C++大作业.exe

@@ -11,6 +11,7 @@ public:
 		this->ai = ai;
 		this->chess = chess;
 
+		man->init(chess);
 	}
 	void play();//开始对局
 	//添加数据成员

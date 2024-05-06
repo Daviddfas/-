@@ -30,6 +30,7 @@ public:
 			{
 				row.push_back(0);
 			}
+			chessmap.push_back(row);
 		}
 	}
 	
