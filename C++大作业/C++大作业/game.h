@@ -12,6 +12,7 @@ public:
 		this->chess = chess;
 
 		man->init(chess);
+		ai->init(chess);
 	}
 	void play();//开始对局
 	//添加数据成员

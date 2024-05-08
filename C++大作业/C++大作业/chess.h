@@ -7,6 +7,10 @@ struct chessset
 {
 	int row;
 	int col;
+
+	chessset(int r = 0, int c = 0) :row(r), col(c)
+	{
+	};
 };
 typedef enum
 {
@@ -45,7 +49,9 @@ public:
 	bool checkover();//检查棋局是否结束
 private:
 	IMAGE chessblack;//黑棋子
+	IMAGE blackyanma;//黑棋的掩码
 	IMAGE chesswhite;//白棋子
+	IMAGE whiteyanma;//白棋的掩码
 
 	int gradesize;//棋盘的大小（13，15，17，19）
 	int margin_x;//棋盘的左侧边界
@@ -58,5 +64,11 @@ private:
 	//表示现在该谁下棋
 	bool playerflag;//true 该黑子走
 
+
+	void updatechessmap(chessset* pos);
+
+	bool checkWin();//如果胜负已分，就返回true，否则返回假
+
+	chessset lastPos;//最近的落子点的位置
 };
 
