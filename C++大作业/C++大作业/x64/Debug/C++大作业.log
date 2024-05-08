@@ -1,25 +1,3 @@
-﻿  chess.cpp
-D:\C++项目\C++大作业\C++大作业\chess.cpp(55,90): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(55,79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(56,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(56,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(57,90): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(57,79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(58,89): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(58,78): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(72,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(73,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(74,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(75,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(76,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(84,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(96,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(98,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(111,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(112,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(124,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(125,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(127,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(148,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\C++项目\C++大作业\C++大作业\chess.cpp(149,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+﻿  1.cpp
+D:\C++项目\C++大作业\C++大作业\1.cpp(14,27): warning C4305: “参数”: 从“double”到“float”截断
   C++大作业.vcxproj -> D:\C++项目\C++大作业\x64\Debug\C++大作业.exe
